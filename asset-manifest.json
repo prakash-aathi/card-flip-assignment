@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/card-flip-assignment/static/css/main.98710315.css",
+    "main.js": "/card-flip-assignment/static/js/main.8621a4c0.js",
+    "static/js/787.33d2bda1.chunk.js": "/card-flip-assignment/static/js/787.33d2bda1.chunk.js",
+    "static/media/profile.jpeg": "/card-flip-assignment/static/media/profile.731f8a40242d36a14b03.jpeg",
+    "index.html": "/card-flip-assignment/index.html",
+    "main.98710315.css.map": "/card-flip-assignment/static/css/main.98710315.css.map",
+    "main.8621a4c0.js.map": "/card-flip-assignment/static/js/main.8621a4c0.js.map",
+    "787.33d2bda1.chunk.js.map": "/card-flip-assignment/static/js/787.33d2bda1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98710315.css",
+    "static/js/main.8621a4c0.js"
+  ]
+}
